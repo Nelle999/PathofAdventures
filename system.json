@@ -27,7 +27,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "",
-  "manifest": "",
+  "manifest": "https://github.com/Nelle999/PathofAdventures/blob/main/system.json",
   "download": "",
   "license": "LICENSE.txt",
   "changelog": "CHANGELOG.md"
